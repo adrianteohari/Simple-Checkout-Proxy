@@ -1,0 +1,122 @@
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\CasaDeMarcatUnitTest.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\CasaDeMarcatUnitTest.pdb
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Casademarcat.exe
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Database.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\MySql.Data.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Zstandard.Net.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Memory.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Buffers.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Casademarcat.pdb
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Casademarcat.exe.config
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Database.pdb
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Database.dll.config
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\MySql.Data.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.pdb
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Memory.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Buffers.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csprojAssemblyReference.cache
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csproj.CopyComplete
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.dll
+C:\Users\Petruta\Desktop\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.pdb
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\CasaDeMarcatUnitTest.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\CasaDeMarcatUnitTest.pdb
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\MySql.Data.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Zstandard.Net.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Memory.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Buffers.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Casademarcat.pdb
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Casademarcat.exe.config
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Database.pdb
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Database.dll.config
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\MySql.Data.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.pdb
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Memory.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Buffers.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csprojAssemblyReference.cache
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csproj.CopyComplete
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.dll
+C:\Users\Petruta\Desktop\proiectIp-main\proiectIp-main\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\CasaDeMarcatUnitTest.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\CasaDeMarcatUnitTest.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\MySql.Data.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Zstandard.Net.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Memory.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Buffers.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Casademarcat.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Casademarcat.exe.config
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Database.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Database.dll.config
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\MySql.Data.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\Google.Protobuf.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Memory.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Buffers.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csprojAssemblyReference.cache
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.csproj.CopyComplete
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\CasaDeMarcatUnitTest\obj\Debug\CasaDeMarcatUnitTest.pdb

@@ -1,0 +1,170 @@
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Database.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Database.pdb
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Dapper.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Dapper.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\obj\Debug\Database.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\obj\Debug\Database.pdb
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Database.dll.config
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\MySql.Data.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Buffers.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Memory.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Zstandard.Net.dll
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Google.Protobuf.pdb
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\Google.Protobuf.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\MySql.Data.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Buffers.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Memory.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hello\Downloads\Casademarcat\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Database.dll.config
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Database.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Database.pdb
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Dapper.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\MySql.Data.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Buffers.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Memory.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Zstandard.Net.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Dapper.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Google.Protobuf.pdb
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\Google.Protobuf.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\MySql.Data.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Buffers.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Data.SQLite.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Memory.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\obj\Debug\Database.dll
+C:\Users\Petruta\Desktop\ipProiect\Casademarcat\Database\obj\Debug\Database.pdb
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Database.dll.config
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Database.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Database.pdb
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\BouncyCastle.Crypto.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Dapper.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Google.Protobuf.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\MySql.Data.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Buffers.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Data.SQLite.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Memory.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Ubiety.Dns.Core.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Zstandard.Net.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Dapper.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Google.Protobuf.pdb
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\Google.Protobuf.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\MySql.Data.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Buffers.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Data.SQLite.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Memory.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\obj\Debug\Database.csprojAssemblyReference.cache
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\obj\Debug\Database.csproj.CopyComplete
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\obj\Debug\Database.dll
+E:\facultate\an3\sem2\IP\git\proiectIp\Casademarcat\Database\obj\Debug\Database.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Database.dll.config
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Database.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Database.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Dapper.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Google.Protobuf.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\MySql.Data.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Buffers.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Data.SQLite.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Memory.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Zstandard.Net.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Dapper.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Google.Protobuf.pdb
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\Google.Protobuf.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\MySql.Data.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Buffers.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Data.SQLite.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Memory.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\obj\Debug\Database.csproj.CopyComplete
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\obj\Debug\Database.dll
+C:\Users\Petruta\Desktop\ipProiect\New folder\Casademarcat\Database\obj\Debug\Database.pdb
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Database.dll.config
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Database.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Database.pdb
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\BouncyCastle.Crypto.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Dapper.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Google.Protobuf.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\MySql.Data.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Buffers.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Data.SQLite.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Memory.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Ubiety.Dns.Core.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Zstandard.Net.dll
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Dapper.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Google.Protobuf.pdb
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\Google.Protobuf.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\K4os.Hash.xxHash.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\MySql.Data.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Buffers.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Data.SQLite.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Memory.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Numerics.Vectors.xml
+C:\ipppp\proiectIp\Casademarcat\Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ipppp\proiectIp\Casademarcat\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\ipppp\proiectIp\Casademarcat\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\ipppp\proiectIp\Casademarcat\Database\obj\Debug\Database.csproj.CopyComplete
+C:\ipppp\proiectIp\Casademarcat\Database\obj\Debug\Database.dll
+C:\ipppp\proiectIp\Casademarcat\Database\obj\Debug\Database.pdb
